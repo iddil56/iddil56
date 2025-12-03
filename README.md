@@ -77,12 +77,7 @@ I work with **Flutter, Firebase, PHP, MySQL, Python, SQL, Java, and full-stack s
 ---
 
 ## 📫 How to Reach Me
-[Email](mailto:idil39450@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idil-ahmed-1b6306393/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDr0mOPmTau4Zo7ZOhWO9w%3D%3D)
-
----
-
-## 😄 Pronouns
-He/Him  
+[Email](mailto:idil39450@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idil-ahmed-1b6306393/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbK5PW%2B2JQVOHZGgcTfXE6g%3D%3D)
 
 ---
 
