@@ -84,10 +84,3 @@ I work with **Flutter, Firebase, PHP, MySQL, Python, SQL, Java, and full-stack s
 ## ⚡ Fun Fact
 I love turning complex ideas into simple, clean, and working apps — and I learn fast 🚀
 
----
-
-## 📊 GitHub Stats
-
-![idil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iddil56&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddil56&layout=compact&theme=radical)
